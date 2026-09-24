@@ -8,6 +8,7 @@ dependencies = [
     "ipywidgets>=8.1.9",
     "jupyterlab>=4.6.4",
     "openai>=3.17.0",
+    "rich>=15.0.0",
     "torch>=2.14.0",
     "transformers>=5.17.0",
 ]
